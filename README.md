@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giuseppe</h1>
 <h3 align="center">I'm a Junior Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Laravel, Php**
+- 🌱 I’m currently learning **Laravel, Php, SpringBoot, Java**
 
-- 💬 Ask me about **Bootstrap, CSS**
+- 💬 Ask me about **Bootstrap, CSS, Angular**
 
 - 📫 How to reach me **dominici.g@yahoo.com**
 
