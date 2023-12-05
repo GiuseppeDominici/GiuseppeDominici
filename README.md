@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact **I program something but I don't know what**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/giuseppe dominici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuseppe dominici" height="30" width="40" />
 </a>
 <a href="https://fb.com/giuseppe dominici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giuseppe dominici" height="30" width="40" />
