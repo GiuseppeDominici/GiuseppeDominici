@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Giuseppe</h1>
 <h3 align="center">I'm a Junior Full Stack Web Developer</h3>
+
 <p align="center">
-- 🌱 I’m currently using **SpringBoot, Java, Angular, MongoDB, SQL**
+  - 🌱 I’m currently using **SpringBoot, Java, Angular, MongoDB, SQL**
 </p>
+
 <p align="center">
-- 💬 Ask me about **Bootstrap, CSS, Angular, Typescript, Javascript**
+  - 💬 Ask me about **Bootstrap, CSS, Angular, Typescript, Javascript**
 </p>
+
 <p align="center">
-- 📫 How to reach me **dominici.g@yahoo.com**
+  - 📫 How to reach me **dominici.g@yahoo.com**
 </p>
+
 <p align="center">
-- ⚡ Fun fact **I program something but I don't know what**
+  - ⚡ Fun fact **I program something but I don't know what**
 </p>
   
 <h3 align="center">Connect with me:</h3>
