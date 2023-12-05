@@ -6,7 +6,9 @@
 <p align="center">
 - 💬 Ask me about **Bootstrap, CSS, Angular, Typescript, Javascript**
 </p>
+<p align="center">
 - 📫 How to reach me **dominici.g@yahoo.com**
+</p>
 <p align="center">
 - ⚡ Fun fact **I program something but I don't know what**
 </p>
