@@ -2,13 +2,15 @@
 <h3 align="center">I'm a Junior Full Stack Web Developer</h3>
 <p align="center">
 - 🌱 I’m currently using **SpringBoot, Java, Angular, MongoDB, SQL**
-
+</p>
+<p align="center">
 - 💬 Ask me about **Bootstrap, CSS, Angular, Typescript, Javascript**
-
+</p>
 - 📫 How to reach me **dominici.g@yahoo.com**
-
+<p align="center">
 - ⚡ Fun fact **I program something but I don't know what**
 </p>
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/giuseppe dominici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuseppe dominici" height="30" width="40" />
